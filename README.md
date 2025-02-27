@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Full Stack Software Engineer</h1>
 <p>Welcome to my Github profile. I am a lecturer who teaches software engineering and many other technology topics, all of which gives me more experience and love for my work.</p>
 <h2>🚀 Languages and Tools I Use</h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN215enMwZWExdmZpa2MxbzZwYWlncGttc3o0OTM4bHphMGpmcnFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -19,3 +20,4 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/vakolegashvili/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vako77&show_icons=true&locale=en" alt="Vako77" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vako77&show_icons=true&locale=en&layout=compact" alt="Vako77" /></p>
+
